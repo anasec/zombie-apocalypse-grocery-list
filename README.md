@@ -27,3 +27,7 @@ See the main list in:
 [Zombie Apocalypse Grocery List](https://github.com/anasec/zombie-apocalypse-grocery-list/blob/main/zombie_apocalypse_grocery_list.md)
 
 #CGPTSAO
+
+---
+
+This project is licensed under the [MIT License](LICENSE).
