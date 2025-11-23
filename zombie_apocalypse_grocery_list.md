@@ -61,16 +61,16 @@ Prepare yourself for a future outbreak scenario. This list focuses on supplies t
 ---
 
 ## 4. Defense and Security
-*(Defensive, lawful items only)*
+*(lawful items only, Github friendly. In case of real zombies, just survive :) )*
 
-- [ ] A big freakin stick
+- [ ] A Big Freakin Stick
 - [ ] High-lumens flashlight
 - [ ] Headlamp
 - [ ] Reinforced gloves
 - [ ] Durable boots
 - [ ] Heavy jacket for bite protection
 - [ ] Multi-tool
-- [ ] Sturdy walking stick or baton-style tool
+- [ ] Sturdy walking stick or baton-style tool (Again, a Big Freakin Stick)
 - [ ] Rope or paracord
 - [ ] Duct tape
 - [ ] Padlocks
