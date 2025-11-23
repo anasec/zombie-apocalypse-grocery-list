@@ -22,6 +22,6 @@ This repository contains the core grocery and supply list designed for realistic
 Community updates are welcome. Open a PR to add your own list for future years or to improve any section.
 
 See the main list in:
-`zombie_apocalypse_grocery_list.md`
+[Zombie Apocalypse Grocery List](https://github.com/anasec/zombie-apocalypse-grocery-list/blob/main/zombie_apocalypse_grocery_list.md)
 
 #CGPTSAO
