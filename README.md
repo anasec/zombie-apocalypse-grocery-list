@@ -3,11 +3,13 @@
 ![CGPTSAO](https://img.shields.io/badge/CGPTSAO-Active-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-```text
+<p align="center">
+<pre>
 +-----------------------------------------------------------+
 |       ZOMBIE APOCALYPSE GROCERY LIST (2026 EDITION)       |
 +-----------------------------------------------------------+
-```
+</pre>
+</p>
 
 # Zombie Apocalypse Grocery List (2026 Edition)
 
