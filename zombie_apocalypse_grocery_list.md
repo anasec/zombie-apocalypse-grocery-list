@@ -2,6 +2,9 @@
 
 Prepare yourself for a future outbreak scenario. This list focuses on supplies that increase survival, mobility, medical readiness, and long-term resilience.
 
+**Main checklist:**  
+[zombie_apocalypse_grocery_list.md](https://github.com/anasec/zombie-apocalypse-grocery-list/blob/main/zombie_apocalypse_grocery_list.md)
+
 ---
 
 ## 1. Water and Filtration
