@@ -1,8 +1,11 @@
+```text
 +-----------------------------------------------------------+
 |       ZOMBIE APOCALYPSE GROCERY LIST (2026 EDITION)       |
 +-----------------------------------------------------------+
+```
 
 # Zombie Apocalypse Grocery List (2026 Edition)
+
 
 A serious and necessary survival resource for the inevitable.
 
