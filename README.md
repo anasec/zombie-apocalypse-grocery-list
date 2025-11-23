@@ -1,7 +1,7 @@
-![Survival Ready](https://img.shields.io/badge/Prepared-Yes-green)
-![Human Verified](https://img.shields.io/badge/Human%20Mode-On-blue)
+![Status](https://img.shields.io/badge/Prepared-Yes-brightgreen)
+![Human Mode](https://img.shields.io/badge/Human%20Mode-On-blue)
 ![CGPTSAO](https://img.shields.io/badge/CGPTSAO-Active-orange)
-
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ```text
 +-----------------------------------------------------------+
