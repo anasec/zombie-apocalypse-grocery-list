@@ -1,3 +1,8 @@
+![Survival Ready](https://img.shields.io/badge/Prepared-Yes-green)
+![Human Verified](https://img.shields.io/badge/Human%20Mode-On-blue)
+![CGPTSAO](https://img.shields.io/badge/CGPTSAO-Active-orange)
+
+
 ```text
 +-----------------------------------------------------------+
 |       ZOMBIE APOCALYPSE GROCERY LIST (2026 EDITION)       |
