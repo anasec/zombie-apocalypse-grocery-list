@@ -13,21 +13,34 @@
 
 # Zombie Apocalypse Grocery List (2026 Edition)
 
-
 A serious and necessary survival resource for the inevitable.
 
 If the undead don’t get you, the supply chain will.  
 Stay prepared. Stay human.
 
-This repository contains the core grocery and supply list designed for realistic long-term survival scenarios. Items focus on water, food, medical readiness, defense, mobility, sanitation, communication, and shelter.
+This repository contains a realistic long-term survival grocery and supply list covering water, food, medicine, defense, mobility, sanitation, communication, documentation, shelter, and long-term readiness.
 
-Community updates are welcome. Open a PR to add your own list for future years or to improve any section.
+Community updates are welcome. Open a PR to add your own list for future years or improve any section.
 
-See the main list in:
+## Main Checklist  
 [Zombie Apocalypse Grocery List](https://github.com/anasec/zombie-apocalypse-grocery-list/blob/main/zombie_apocalypse_grocery_list.md)
+
+---
+
+## Roadmap
+- [ ] 2027 Edition
+- [ ] Printable PDF version
+- [ ] Bug-Out Bag micro-list
+- [ ] Community submissions
+- [ ] Optional CLI tool
+- [ ] Multi-language versions
+
+## Contributors
+Thanks to everyone who contributes new items, fixes, or future-year lists!
 
 #CGPTSAO
 
 ---
 
+## License
 This project is licensed under the [MIT License](LICENSE).
