@@ -63,6 +63,7 @@ Prepare yourself for a future outbreak scenario. This list focuses on supplies t
 ## 4. Defense and Security
 *(Defensive, lawful items only)*
 
+- [ ] A big freakin stick
 - [ ] High-lumens flashlight
 - [ ] Headlamp
 - [ ] Reinforced gloves
