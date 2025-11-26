@@ -3,7 +3,7 @@
 Prepare yourself for a future outbreak scenario. This list focuses on supplies that increase survival, mobility, medical readiness, and long-term resilience.
 
 ## How to Use This List
-- Click the checkboxes directly in GitHub to track your progress.
+- Click the checkboxes directly in GitHub to track your progress (in the code view)
 - Fork the repository if you want a personalized version.
 - Use the FUTURE_YEARS_TEMPLATE.md to create lists for 2027 and beyond.
 - Submit PRs if you want to add items or improve accuracy.
