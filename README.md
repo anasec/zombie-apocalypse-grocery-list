@@ -32,7 +32,7 @@ Community updates are welcome. Open a PR to add your own list for future years o
 - [ ] Printable PDF version
 - [ ] Bug-Out Bag micro-list
 - [ ] Community submissions
-- [ ] Optional CLI tool
+- [ ] Optional CLI tool, jk :)
 - [ ] Multi-language versions
 
 ## Contributors
